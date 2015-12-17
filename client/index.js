@@ -30,7 +30,7 @@ function location$(history) {
     });
 
     return Rx.Disposable.create(() => {
-      dispose();
+      dispose();asdfasdfa
     });
   });
 }
